@@ -2,6 +2,10 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+
+/**
+ * The main class where program begins.
+ */
 public class Main {
     public static void main(String[] args) throws IOException {
         Calculator calculator = new Calculator(); // создаём калькулятор
